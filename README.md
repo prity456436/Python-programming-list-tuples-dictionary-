@@ -1,1 +1,1 @@
-This repository provides python implementation with list,tuples and dictionary.# Python-programming-list-tuples-dictionary-
+This repository provides python implementation with list,tuples and dictionary.
