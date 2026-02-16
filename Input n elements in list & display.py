@@ -1,0 +1,4 @@
+n=input("enter element in list: ").split()
+print("Entered elements:")
+for i in n:
+    print(i)
